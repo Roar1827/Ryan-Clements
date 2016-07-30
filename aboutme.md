@@ -9,3 +9,5 @@ University of Western Ontario
 - Major in Computer Science (3.50 GPA)
 - Focused on Software Development, Object Oriented Design, and Artificial Intelligence.
 - Graduated in 2011
+
+[Back to Main Page](README.md)
