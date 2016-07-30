@@ -10,4 +10,4 @@ Richard Sheridan has challenged almost everything that I thought "has to be this
 - <sub>*On why Menlo uses paper based project management tools:* "Uncomplicated tools that are easy to learn invite wider participation by all stakeholders." (Page 119)</sub>
 - <sub>"Most organizations give lip service to 'Fail fast.' During early experiments when a team is testing their limits, it doesn't take much to crush their spirit, and then, suddenly, experiments become all about *being safe*, not taking small risks. In a *being safe* culture, people choose to run safe experiments that they know will succeed, effectively exhausting the energy behind a change initiative. This kind of practice is deadly to innovation." (Page 124)</sub>
 
-[Back to Main Page](README.md)
+[Back to Main Page](../README.md)
