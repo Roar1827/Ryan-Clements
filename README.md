@@ -8,10 +8,16 @@ Perhaps the most exciting result of this is the amazing things we have been able
 Our company culture has grown so much in the past five years, it is truly remarkable. As the way we approached our work began to change, we saw team-work flourish in the office. [(Continue Reading...)](2021.md)
 
 ## On my Bookshelf
+### Read:
 - **Joy, Inc.** How We Built a Workplace People Love *(Richard Sheridan)* [My thoughts and favourite quotes](books/joyinc.md)
 - **Scrum** The Art of Doing Twice the Work in Half the Time *(Jeff Sutherland)* [My thoughts and favourite quotes](books/scrum.md)
 - **Notes to a Software Team Leader** Growing Self Organizing Teams *(Roy Osherove)* [My thoughts and favourite quotes](books/notestoasoftwareteamleader.md)
-
-#### Reading Pile [*<sup>(Do you have any book suggestions I should add to this list?)</sup>*](https://github.com/Roar1827/Ryan-Clements/issues/new?title=Book%20Suggestion:%20{Title%20Here}&body=The%20reason%20I%20think%20you%20would%20benefit%20from%20this%20book%20is-)
+- **Good to Great** *(Jim Collins)*
+### Yet to Read:[*<sup>(Do you have any book suggestions I should add to this list?)</sup>*](https://github.com/Roar1827/Ryan-Clements/issues/new?title=Book%20Suggestion:%20{Title%20Here}&body=The%20reason%20I%20think%20you%20would%20benefit%20from%20this%20book%20is-)
+- **The Lean Startup** *(Eric Ries)*
+- **The Pragmatic Programmer** *(Hunt and Thomas)*
+- **Team Genius** *(Rich Karlgaard and Michael S. Malone)*
+- **Why Should Anyone Work Here?** What it takes to create an authentic organization *(Goffee and Jones)*
+#### Yet to Buy: [*<sup>(Do you have any book suggestions I should add to this list?)</sup>*](https://github.com/Roar1827/Ryan-Clements/issues/new?title=Book%20Suggestion:%20{Title%20Here}&body=The%20reason%20I%20think%20you%20would%20benefit%20from%20this%20book%20is-)
 - Becoming a Technical Leader- Jerry Weinberg
 - Influencer: The Power to Change Anything- Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, and Al Switzler
