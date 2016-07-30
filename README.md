@@ -51,6 +51,6 @@ If you are looking for a polished book on software team leadership, this book is
 - <sub>"Ideas for change should be coming from within the team as well as from you. They will come from reflectionon what's not right and inspiration from what other teams are doing. Encourage the team to network at user groups, read blogs and use Twitter, and so on. These resources can make a huge difference to a team's enthusiasm for change." - Tom Howlett (Appendix 26)</sub>
 
 
-#### Reading Pile
+#### Reading Pile [*<sup>(Do you have any book suggestions I should add to this list?)</sup>*](https://github.com/Roar1827/Ryan-Clements/issues/new?title=Book%20Suggestion:%20{Title%20Here}&body=The%20reason%20I%20think%20you%20would%20benefit%20from%20this%20book%20is-)
 - Becoming a Technical Leader- Jerry Weinberg
 - Influencer: The Power to Change Anything- Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, and Al Switzler
