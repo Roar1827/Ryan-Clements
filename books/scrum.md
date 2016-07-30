@@ -7,3 +7,5 @@ There is an incredible amount of value to be found in this book. Although I don'
 - <sub>"He started telling people that working late wasn't a sign of commitment; it was a sign of failure. 'It's not because I want you to have a balanced life,' he told people. 'It's because you'll get more stuff done.'" (Page 102)</sub>
 - <sub>"The most important part of Scrum: it changes the culture people work in, which can be scary for some." (Page 143)</sub>
 - <sub>"One of the key concepts in Scrum is that the team members decide themselves how they're going to do the work. It's management's responsibility to set the strategic goals, but it's the team's job to decide how to reach those goals." (Page 50)</sub>
+
+[Back to Main Page](../README.md)
