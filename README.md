@@ -9,7 +9,7 @@ Our company culture has grown so much in the past five years, it is truly remark
 
 ## On my Bookshelf
 
-**Joy, Inc.** How We Built a Workplace People Love *(Richard Sheridan)*
+### **Joy, Inc.** How We Built a Workplace People Love *(Richard Sheridan)*
 
 #### Reaction:
 Richard Sheridan has challenged almost everything that I thought "has to be this way" in the software development world. He has inspired me to want what he has created at Menlo for my own team. After reading this book I am no longer content with minor improvements made over long periods of time. I am convinced there is a better way, and it is within reach for all who are willing to take the steps towards finding it.
@@ -21,7 +21,7 @@ Richard Sheridan has challenged almost everything that I thought "has to be this
 - <sub>"Most organizations give lip service to 'Fail fast.' During early experiments when a team is testing their limits, it doesn't take much to crush their spirit, and then, suddenly, experiments become all about *being safe*, not taking small risks. In a *being safe* culture, people choose to run safe experiments that they know will succeed, effectively exhausting the energy behind a change initiative. This kind of practice is deadly to innovation." (Page 124)</sub>
  
 
-**Scrum** The Art of Doing Twice the Work in Half the Time *(Jeff Sutherland)*
+### **Scrum** The Art of Doing Twice the Work in Half the Time *(Jeff Sutherland)*
 
 #### Reaction:
 There is an incredible amount of value to be found in this book. Although I don't believe this implementation of an Agile framework is a direct fit for all, Jeff will at least challenge you to question why you do things the way you do. 
@@ -32,7 +32,7 @@ There is an incredible amount of value to be found in this book. Although I don'
 - <sub>"One of the key concepts in Scrum is that the team members decide themselves how they're going to do the work. It's management's responsibility to set the strategic goals, but it's the team's job to decide how to reach those goals." (Page 50)</sub>
 
 
-**Notes to a Software Team Leader** Growing Self Organizing Teams *(Roy Osherove)*
+### **Notes to a Software Team Leader** Growing Self Organizing Teams *(Roy Osherove)*
 
 #### Reaction:
 If you are looking for a polished book on software team leadership, this book is not what you want. If however, you are looking for valuable insight dispensed in a clear and concise manner then you will want to order this immediately. 
