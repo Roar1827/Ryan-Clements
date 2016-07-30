@@ -15,3 +15,5 @@ If you are looking for a polished book on software team leadership, this book is
 - <sub>"If you do not know anything about human behaviour, you know very little about software development." - Jose Ramon Diaz (Appendix 17</sub>
 - <sub>"Leadership (whether from within or without) takes the team to places it would otherwise never have reached, perhaps never even considered." - Mike Burrows (Appendix 18)</sub>
 - <sub>"Ideas for change should be coming from within the team as well as from you. They will come from reflectionon what's not right and inspiration from what other teams are doing. Encourage the team to network at user groups, read blogs and use Twitter, and so on. These resources can make a huge difference to a team's enthusiasm for change." - Tom Howlett (Appendix 26)</sub>
+
+[Back to Main Page](../README.md)
