@@ -5,7 +5,7 @@ It is truly incredible how far we have come. It has been a few years now since w
 
 Perhaps the most exciting result of this is the amazing things we have been able to accomplish in our community. As Advance began to grow, we realized how much benefit local charities and non-profits could gain from this software. Most of these companies and charities could never afford to have a custom web application built for them, and open sourced alternatives only provide such a small percentage of the functionality they need. Used to create donation forms, volunteer scheduling and resourcing, and even project management, Advance has changed the way so many charities are able to interact with the community. And best of all, we are able to provide this for them completely free of charge. We are able to offer training and support as well, as charities build their own solutions using Advance.
 
-Our company culture has grown so much in the past five years, it is truly remarkable. As the way we approached our work began to change, we saw team-work flourish in the office. [(Continue Reading...)]()
+Our company culture has grown so much in the past five years, it is truly remarkable. As the way we approached our work began to change, we saw team-work flourish in the office. [(Continue Reading...)](2021.md)
 
 ### Books
 
