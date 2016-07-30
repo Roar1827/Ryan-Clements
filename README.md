@@ -17,7 +17,7 @@ Our company culture has grown so much in the past five years, it is truly remark
 - **Notes to a Software Team Leader** Growing Self Organizing Teams *(Roy Osherove)* [My thoughts and favourite quotes](books/notestoasoftwareteamleader.md)
 - **Good to Great** *(Jim Collins)*
 
-### Yet to Read:[*<sup>(Do you have any book suggestions I should add to this list?)</sup>*](https://github.com/Roar1827/Ryan-Clements/issues/new?title=Book%20Suggestion:%20{Title%20Here}&body=The%20reason%20I%20think%20you%20would%20benefit%20from%20this%20book%20is-)
+### Yet to Read: [*<sup>(Do you have any book suggestions I should add to this list?)</sup>*](https://github.com/Roar1827/Ryan-Clements/issues/new?title=Book%20Suggestion:%20{Title%20Here}&body=The%20reason%20I%20think%20you%20would%20benefit%20from%20this%20book%20is-)
 - **The Lean Startup** *(Eric Ries)*
 - **The Pragmatic Programmer** *(Hunt and Thomas)*
 - **Team Genius** *(Rich Karlgaard and Michael S. Malone)*
