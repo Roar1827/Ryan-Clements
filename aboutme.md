@@ -25,7 +25,7 @@ I am an entrepreneur with a passion for learning and I thrive in a team environm
 - Drove incremental revenue by leading a team dedicated to improving campaign performance. 
 
 **Co-Founder** *OnlineHarnessOwner.com Inc.* (2005 - 2011)
- -Managed a team of six developers on a large-scale website development project, ensuring that all pieces of the project were carried through and completed on time.
+- Managed a team of six developers on a large-scale website development project, ensuring that all pieces of the project were carried through and completed on time.
 - Designed and developed tools for managing user accounts through Visual Studio, C#, and ASP.NET
 - Engaged and negotiated contracts with the top horse trainers in the industry.
 - Responsible for managing all client accounts—worked with over 100 investors.
