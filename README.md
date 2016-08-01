@@ -26,3 +26,9 @@ Our company culture has grown so much in the past five years, it is truly remark
 ### Yet to Buy: [*<sup>(Do you have any book suggestions I should add to this list?)</sup>*](https://github.com/Roar1827/Ryan-Clements/issues/new?title=Book%20Suggestion:%20{Title%20Here}&body=The%20reason%20I%20think%20you%20would%20benefit%20from%20this%20book%20is-)
 - **Becoming a Technical Leader** *(Jerry Weinberg)*
 - **Influencer**: The Power to Change Anything *(Kerry Patterson, Joseph Grenny, David Maxfield, Ron McMillan, and Al Switzler)*
+- **Five Dysfunctions of a Team**: A Leadership Fable *(Patrick Lencioni)*
+- **Getting Naked**: A Business Fable About Shedding The Three Fears That Sabotage Client Loyalty *(Patrick Lencioni)*
+- **Leadership and Self-Deception**: Getting Out of the Box *(Arbinger Institute)*
+- **Extreme Programming Explained**: Embrace Change- 1st Edition *(Kent Beck)*
+- **Planning Extreme Programming** *(Kent Beck and Martin Fowler)**
+- **The Inmates Are Running the Asylum**: Why High Tech Products Drive Us Crazy and How to Restore the Sanity *(Alan Cooper)*
