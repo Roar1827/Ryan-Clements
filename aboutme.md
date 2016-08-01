@@ -5,13 +5,18 @@ I am an entrepreneur with a passion for learning and I thrive in a team environm
 
 ## Current Position
 
+**Senior Developer** *Innovasium* (2015-Current)
+- Worked to define and implement a customized full stack framework based on Facebook's ReactJS, REDUX, and ImmutableJS on the frontend with a Ruby on Rails, Postgresql backend.
+- Introduced automated unit testing and continuous integration in our newest projects
+- Full stack development, from database schema design to front end CSS work and everything in between.
+
 ## Previous Experience
 
-**Senior Developer** *Innovasium* (2013-2014, 2015-Current)
+**Digital Architect** *Innovasium* (2013-2014)
 - Led small teams from planning through to launch on large scale web application builds. 
 - Worked closely with clients to understand objectives and architect application to suit.
 - Full stack development, from database schema design to front end CSS work and everything in between.
-- Utilized modern JavaScript frameworks including Angular and React in order to deliver leading-edge solutions.
+- Utilized modern JavaScript frameworks including AngularJS in order to deliver leading-edge solutions.
 
 **Integration Services Engineer** *Criteo* (2011-2012)
 - Responsible for qualifying, integrating and launching advertisers on Criteo’s retargeting platform.
