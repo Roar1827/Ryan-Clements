@@ -13,7 +13,7 @@ I am an entrepreneur with a passion for learning and I thrive in a team environm
 ## Previous Experience
 
 **Digital Architect** *Innovasium* (2013-2014)
-- Led small teams from planning through to launch on large scale web application builds. 
+- Led small team from planning through to launch on large scale web application build. 
 - Worked closely with clients to understand objectives and architect application to suit.
 - Full stack development, from database schema design to front end CSS work and everything in between.
 - Utilized modern JavaScript frameworks including AngularJS in order to deliver leading-edge solutions.
