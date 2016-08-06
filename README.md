@@ -32,4 +32,4 @@ Our company culture has grown so much in the past five years, it is truly remark
 - **Extreme Programming Explained**: Embrace Change- 1st Edition *(Kent Beck)*
 - **Planning Extreme Programming** *(Kent Beck and Martin Fowler)**
 - **The Inmates Are Running the Asylum**: Why High Tech Products Drive Us Crazy and How to Restore the Sanity *(Alan Cooper)*
-- **Code Complete** *(Steve McConnell)* --Suggested by @will-lo
+- **Code Complete** *(Steve McConnell)*
