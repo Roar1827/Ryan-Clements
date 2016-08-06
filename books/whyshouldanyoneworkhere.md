@@ -1,7 +1,7 @@
 ### **Why Should Anyone Work Here?** What it Takes to Create an Authentic Organization *(Rob Goffee and Gareth Jones)*
 
 #### Reaction:
-
+The authors have carefully researched a vast number of organizations in order to examine culture, and report back with stories of both success and failure. The opportunity to learn from these companies is enormous, and Goffee and Jones have done the laid this out for you in this book. 
 #### Favourite Quotes:
 - <sub>"One of the most contradictory organizational aspirations of recent times is, 'Be innovative, but don't fail.'" (Page 28)</sub>
 - <sub>"The ideal company doesn't just grow its best employees; it makes all its employees better than they ever thought they could be." (Page 76)</sub>
