@@ -11,7 +11,7 @@ Perhaps the most exciting result of this is the amazing things we have been able
 Our company culture has grown so much in the past five years, it is truly remarkable. As the way we approached our work began to change, we saw team-work flourish in the office. [(Continue Reading...)](2021.md)
 
 ## On my Bookshelf
-![The Lean Startup](books/img/theleanstartup-spine.jpg)
+[<img src="books/img/theleanstartup-spine.jpg">](books/theleanstartup.md)
 ### Read:
 - **Joy, Inc.** How We Built a Workplace People Love *(Richard Sheridan)* [My thoughts and favourite quotes](books/joyinc.md)
 - **Scrum** The Art of Doing Twice the Work in Half the Time *(Jeff Sutherland)* [My thoughts and favourite quotes](books/scrum.md)
