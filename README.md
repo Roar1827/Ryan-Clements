@@ -11,8 +11,7 @@ Perhaps the most exciting result of this is the amazing things we have been able
 Our company culture has grown so much in the past five years, it is truly remarkable. As the way we approached our work began to change, we saw team-work flourish in the office. [(Continue Reading...)](2021.md)
 
 ## On my Bookshelf
-[<img src="books/img/theleanstartup-spine.jpg">](books/theleanstartup.md)
-[<img src="books/img/joyinc-spine.JPG">](books/joyinc.md)
+[<img src="books/img/theleanstartup-spine.jpg">](books/theleanstartup.md)[<img src="books/img/joyinc-spine.JPG">](books/joyinc.md)
 [<img src="books/img/scrum-spine.jpg">](books/scrum.md)
 [<img src="books/img/notestoasoftwareteamleader-spine.JPG">](books/notestoasoftwareteamleader.md)
 [<img src="books/img/goodtogreat-spine.JPG">]()
