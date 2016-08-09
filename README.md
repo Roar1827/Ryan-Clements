@@ -12,6 +12,11 @@ Our company culture has grown so much in the past five years, it is truly remark
 
 ## On my Bookshelf
 [<img src="books/img/theleanstartup-spine.jpg">](books/theleanstartup.md)
+[<img src="books/img/joyinc-spine.JPG">](books/joyinc.md)
+[<img src="books/img/scrum-spine.jpg">](books/scrum.md)
+[<img src="books/img/notestoasoftwareteamleader-spine.JPG">](books/notestoasoftwareteamleader.md)
+[<img src="books/img/goodtogreat-spine.JPG">]()
+[<img src="books/img/whyshouldanyoneworkhere-spine.JPG">](books/whyshouldanyoneworkhere.md)
 ### Read:
 - **Joy, Inc.** How We Built a Workplace People Love *(Richard Sheridan)* [My thoughts and favourite quotes](books/joyinc.md)
 - **Scrum** The Art of Doing Twice the Work in Half the Time *(Jeff Sutherland)* [My thoughts and favourite quotes](books/scrum.md)
