@@ -4,12 +4,7 @@
 I am an entrepreneur with a passion for learning and I thrive in a team environment. I am passionate about the management of software teams. Many great minds have been left perplexed trying to create a productive and happy software development team. I am constantly looking for examples of what works, as well as what doesn't. Currently I am developing with [Innovasium](http://www.innovasium.com). I am always reading. [(More about me...)](aboutme.md)
 
 ## On my Bookshelf
-<img src="books/img/theleanstartup-spine.jpg">
-[<img src="books/img/joyinc-spine.JPG">](books/joyinc.md)
-[<img src="books/img/scrum-spine.jpg">](books/scrum.md)
-[<img src="books/img/notestoasoftwareteamleader-spine.JPG">](books/notestoasoftwareteamleader.md)
-[<img src="books/img/goodtogreat-spine.JPG">]()
-[<img src="books/img/whyshouldanyoneworkhere-spine.JPG">](books/whyshouldanyoneworkhere.md)
+<img src="books/img/theleanstartup-spine.jpg"><img src="books/img/joyinc-spine.JPG"><img src="books/img/scrum-spine.jpg"><img src="books/img/notestoasoftwareteamleader-spine.JPG"><img src="books/img/goodtogreat-spine.JPG"><img src="books/img/whyshouldanyoneworkhere-spine.JPG">
 ### Read:
 - **Joy, Inc.** How We Built a Workplace People Love *(Richard Sheridan)* [My thoughts and favourite quotes](books/joyinc.md)
 - **Scrum** The Art of Doing Twice the Work in Half the Time *(Jeff Sutherland)* [My thoughts and favourite quotes](books/scrum.md)
