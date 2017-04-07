@@ -1,7 +1,7 @@
 # Ryan Clements
 ## About Me
 
-I am an entrepreneur with a passion for learning and I thrive in a team environment. I am passionate about the management of software teams. Many great minds have been left perplexed trying to create a productive and happy software development team. I am constantly looking for examples of what works, as well as what doesn't. Currently I am making mobile games with [The Farm Ventures.](www.thefarmventures.com) I am always reading. [(More about me...)](aboutme.md)
+I am an entrepreneur with a passion for learning and I thrive in a team environment. I am passionate about the management of software teams. Many great minds have been left perplexed trying to create a productive and happy software development team. I am constantly looking for examples of what works, as well as what doesn't. Currently I am making mobile games with [The Farm Ventures.](http://www.thefarmventures.com) I am always reading. [(More about me...)](aboutme.md)
 
 ## On my Bookshelf
 <img src="books/img/theleanstartup-spine.jpg"><img src="books/img/joyinc-spine.JPG"><img src="books/img/scrum-spine.jpg"><img src="books/img/notestoasoftwareteamleader-spine.JPG"><img src="books/img/goodtogreat-spine.JPG"><img src="books/img/whyshouldanyoneworkhere-spine.JPG">
