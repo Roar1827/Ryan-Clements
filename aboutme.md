@@ -8,12 +8,12 @@ I am an entrepreneur with a passion for learning and I thrive in a team environm
 **Founder** *The Farm Ventures* (2016-Present)
 - Leading the team behind Off and Pacing, a mobile harness racing ownership simulation game that has already exceeded 2,000 users in beta testing.
 
+## Previous Experience
+
 **Senior Developer** *Innovasium* (2015-2016)
 - Worked to define and implement a customized full stack framework based on Facebook's ReactJS, REDUX, and ImmutableJS on the frontend with a Ruby on Rails, Postgresql backend.
 - Introduced automated unit testing and continuous integration in our newest projects
 - Full stack development, from database schema design to front end CSS work and everything in between.
-
-## Previous Experience
 
 **Digital Architect** *Innovasium* (2013-2014)
 - Led small team from planning through to launch on large scale web application build. 
