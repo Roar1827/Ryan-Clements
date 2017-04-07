@@ -1,11 +1,14 @@
 # Ryan Clements
 
 ## Summary
-I am an entrepreneur with a passion for learning and I thrive in a team environment. I am passionate about the management of software teams. Many great minds have been left perplexed trying to create a productive and happy software development team. I am constantly looking for examples of what works, as well as what doesn't. Currently I am helping implement a form of Agile Development with Innovasium. I am always reading.
+I am an entrepreneur with a passion for learning and I thrive in a team environment. I am passionate about the management of software teams. Many great minds have been left perplexed trying to create a productive and happy software development team. I am constantly looking for examples of what works, as well as what doesn't. Currently I am making mobile games with [The Farm Ventures.](http://www.thefarmventures.com) I am always reading.
 
 ## Current Position
 
-**Senior Developer** *Innovasium* (2015-Current)
+**Founder** *The Farm Ventures (2016-Present)
+- Leading the team behind Off and Pacing, a mobile harness racing ownership simulation game that has already exceeded 2,000 users in beta testing.
+
+**Senior Developer** *Innovasium* (2015-2016)
 - Worked to define and implement a customized full stack framework based on Facebook's ReactJS, REDUX, and ImmutableJS on the frontend with a Ruby on Rails, Postgresql backend.
 - Introduced automated unit testing and continuous integration in our newest projects
 - Full stack development, from database schema design to front end CSS work and everything in between.
