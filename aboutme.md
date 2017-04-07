@@ -5,7 +5,7 @@ I am an entrepreneur with a passion for learning and I thrive in a team environm
 
 ## Current Position
 
-**Founder** *The Farm Ventures (2016-Present)
+**Founder** *The Farm Ventures* (2016-Present)
 - Leading the team behind Off and Pacing, a mobile harness racing ownership simulation game that has already exceeded 2,000 users in beta testing.
 
 **Senior Developer** *Innovasium* (2015-2016)
